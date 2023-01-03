@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/D2FlawedFlawless/static/js/main.32ef5bbd.js",
+    "main.js": "/D2FlawedFlawless/static/js/main.24574502.js",
     "static/js/787.2b57cfc5.chunk.js": "/D2FlawedFlawless/static/js/787.2b57cfc5.chunk.js",
     "static/media/d2logo2.png": "/D2FlawedFlawless/static/media/d2logo2.bcd69d90e1e38ce3720d.png",
     "index.html": "/D2FlawedFlawless/index.html",
-    "main.32ef5bbd.js.map": "/D2FlawedFlawless/static/js/main.32ef5bbd.js.map",
+    "main.24574502.js.map": "/D2FlawedFlawless/static/js/main.24574502.js.map",
     "787.2b57cfc5.chunk.js.map": "/D2FlawedFlawless/static/js/787.2b57cfc5.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.32ef5bbd.js"
+    "static/js/main.24574502.js"
   ]
 }
